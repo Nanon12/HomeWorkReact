@@ -11,4 +11,7 @@
 
 
 }
-
+.app-wrapper-container{
+    grid-area: c;
+    background-color: #30a3ff;
+}
